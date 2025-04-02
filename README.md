@@ -89,7 +89,7 @@ Following some resources:
 - 📒​ A glossary of terms for a better understanding -> [Glossary](./modelling/glossary.md)
 - 🧑‍💻​ Building the project:
   - 🧠​ Defining main domain, sub-domains and concerns -> [Step 1](./modelling/steps/step_1.md)
-  - 🧩​ Defining entities and relations between sub-domains -> Step 2
+  - 🧩​ Defining entities and relations between sub-domains -> [Step 2](./modelling/steps/step_2.md)
 
 ---
 
